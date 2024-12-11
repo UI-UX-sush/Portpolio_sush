@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/UI-UX-sush/Portpolio_sush",
+  "homepage": "https://ui-ux-sush.github.io/Portpolio_sush",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
